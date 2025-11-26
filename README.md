@@ -260,25 +260,6 @@ done
 4. Push to branch: `git push origin feature-name`
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- HuggingFace Transformers team
-- PEFT and LoRA researchers  
-- TRL (Transformer Reinforcement Learning) library
-- Mistral AI team
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/Danushika06/LLM-Finetuning/issues)
-- **Documentation**: This README and inline code comments
-- **Model Cards**: See `models/*/README.md` for model-specific information
-
----
-
 ## 🔄 Migration from Old Structure
 
 If you have the old file structure, your models and data are compatible:
