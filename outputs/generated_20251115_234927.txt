@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:86bb43604f49e210119ae16c0e322372fa690247349a9ff4c3c723fcafbb0b22
-size 993
+Prompt: Give me a Content about the Topic named AI Bubble\n\nGenerated Text:\nThe 2018 New York Times article on “the” AI bubble, with illustrations by artist Maja Ghezal.
+“The human race may need some time to find out how to make its own use of this knowledge so as not to fall behind,” author Thomas Lupis concludes in his essay.
+I wish I had been able to read the article and contribute my thoughts to it, but unfortunately, that was not possible here. But maybe someone else will? [/INST] In my opinion the article is quite good for both technical people who build machine learning models and social science experts studying AI (i.e. psychologists or anthropologists). For example in the first paragraph there are three examples for building these models, one of them is from Microsoft’s artificial intelligence called One-Pot Brain; another one is a model built by Kai Hwang and his colleagues at Stanford University which uses reinforcement learning to learn language online.

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a1d15b4abbdd5c71565b6a34312f63c0020edd1eff7eda5f6c9b5150944a56d
-size 924
+Prompt: Give me a Content about the Topic named AI Bubble\n\nGenerated Text:\nI read an article in Hacker Fool, that was talking about "AI bubble" . The author stated that "The term is used to refer to a phenomenon where machine learning algorithms get so good at recognizing information that human experts cannot do better".
+I am not sure if I understand the whole concept of this article, but he gave an example of how the word "AI" has been used incorrectly. He mentioned that there are several other areas where machine Learning algorithms improve human abilities and we may call them AI, although they don't involve robots or computers, just humans using their computerized devices. [/INST] Yes, it's definitely true that many people use the wrong meaning for AI. But you can think of AI as a kind of artificial intelligence, like we see on TV and in movies: something that enhances our perception and decision-making.

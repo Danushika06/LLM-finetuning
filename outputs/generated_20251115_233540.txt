@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71d7f3b3269d9e0c287a954dcca8d1bee7aa0273c398cd50b0f4fafa7d68d965
-size 827
+Prompt: Write a content about AI\n\nGenerated Text:\nAI is one of the biggest buzzwords in computer science.
+It’s used to predict what your phone might like, and to see if you are in danger of getting arrested for cheating on tests. It also helps improve every aspect of our lives from medical care to sports. Even though it’s been around since the 60s, there is still so much left to learn about AI that we will be learning new things about it until at least 2030.
+AI has changed our lives by bringing us closer together with people all over the world. It allows us to find information faster than ever before, to make decisions quickly, and even though some parts of our life have ended up being automated, the rest of our time remains as human as always.
+Want more? Sign up for email updates and get in touch with me.

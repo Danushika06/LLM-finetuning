@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f87bbf07f347f1ec72cc42bdfb8b2edd20d67d85421ba8198ce45722e1aa4ce9
-size 467
+{
+  "model_path": "models/mistral-7b-merged",
+  "generation": {
+    "min_words": 2300,
+    "max_words": 2700,
+    "temperature": 0.8,
+    "top_p": 0.95,
+    "top_k": 50,
+    "repetition_penalty": 1.15,
+    "no_repeat_ngram_size": 3,
+    "length_penalty": 1.0,
+    "complete_sentences": true,
+    "early_stopping": true
+  },
+  "environment": {
+    "hf_home": "E:/huggingface_cache",
+    "transformers_cache": "E:/huggingface_cache/transformers"
+  }
+}

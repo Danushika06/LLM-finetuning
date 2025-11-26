@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00562f9c6a9ca70c120d4939ae873d5b5d6c0a012edfb6f5cb47aca557f04ac1
-size 278
+{
+  "base_model_id": "mistralai/Mistral-7B-Instruct-v0.2",
+  "lora_path": "models/mistral-7b-lora",
+  "output_path": "models/mistral-7b-merged",
+  "environment": {
+    "hf_home": "E:/huggingface_cache",
+    "transformers_cache": "E:/huggingface_cache/transformers"
+  }
+}
